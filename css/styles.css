@@ -367,8 +367,9 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 background-color: #404bbf;
 }
 
-
-
+.team-svg {
+    fill: #f4f4fd;
+}
 
 /*region-team*/
 /*region-porfolio*/
