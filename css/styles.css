@@ -232,7 +232,7 @@ img {
 width: calc((100% - 72px) / 4);
 }
 
-.icons-1 {
+.icons-one {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -242,7 +242,12 @@ width: calc((100% - 72px) / 4);
     border: 1px solid #8e8f99;
     background: #f4f4fd;
 }
-
+.pictogram {
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 24px 0;
+}
 .advantage-title {
     font-weight: 500;
     font-size: 20px;
