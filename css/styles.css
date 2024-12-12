@@ -167,7 +167,8 @@ img {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
             url(../images/background.jpg);
-    
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .hero-title {
