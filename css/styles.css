@@ -237,10 +237,10 @@ width: calc((100% - 72px) / 4);
     align-items: center;
     justify-content: center;
     height: 112px;
+    background-color: #f4f4fd;
     border-radius: 4px;
-    margin-bottom: 8px;
     border: 1px solid #8e8f99;
-    background: #f4f4fd;
+    margin-bottom: 8px;
 }
 .pictogram {
     display: flex;
